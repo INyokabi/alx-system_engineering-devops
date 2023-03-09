@@ -13,3 +13,4 @@ Directories
 More Directories
 Change group
 Owner and group
+Symbolic links
