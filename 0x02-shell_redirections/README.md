@@ -6,3 +6,7 @@
 5-firstlines
 6-thirdline
 7-file
+8-cwdstate
+9-duplicatelastline
+10-nomorejs
+
