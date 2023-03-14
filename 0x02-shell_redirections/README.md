@@ -10,4 +10,14 @@
 9-duplicatelastline
 10-nomorejs
 11-directories
-
+12-newestfiles
+13-unique
+14-findthatword
+15-countthatword
+16-whatsnext
+17-hidethisword
+18-letteronly
+19-AZ
+20-hiago
+21-reverse
+22-usersandhomes
