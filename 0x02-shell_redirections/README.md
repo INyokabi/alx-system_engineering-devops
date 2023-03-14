@@ -21,3 +21,7 @@
 20-hiago
 21-reverse
 22-usersandhomes
+100-emptycasks
+101-gifs
+102-acrostic
+103-thebiggestfan
