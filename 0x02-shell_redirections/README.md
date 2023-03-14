@@ -9,4 +9,5 @@
 8-cwdstate
 9-duplicatelastline
 10-nomorejs
+11-directories
 
